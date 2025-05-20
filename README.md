@@ -7,11 +7,11 @@
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
-| **End-to-End CI/CD Pipeline with GitHub Actions** | ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat&logo=github-actions) ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-7B42BC?style=flat&logo=terraform) | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/DevOps-CICD-GitHubActions) |
-| **Terraform Infrastructure as Code (IaC)** | ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform) ![AWS](https://img.shields.io/badge/AWS-Deployment-FF9900?style=flat&logo=amazon-aws) | Automated Cloud Infra Provisioning | [🔍 View Project](https://github.com/SuchanMadhikarmi/Terraform-AWS-Infrastructure) |
-| **Dockerized Web App with CI/CD** | ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat&logo=github-actions) | Containerization & CI/CD | [🔍 View Project](https://github.com/SuchanMadhikarmi/Dockerized-App-CICD) |
+| **GitOps Project** | ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat&logo=github-actions) ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat&logo=kubernetes) | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/GitOps-Project) |
+| **AWS CI/CD Pipeline Deployment Project** | ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat&logo=github-actions) ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform) ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat&logo=amazon-aws) | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/AWS_CICD) |
+| **Vprofile Microservices ReDesign** | ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform) ![AWS](https://img.shields.io/badge/AWS-Deployment-FF9900?style=flat&logo=amazon-aws) ![Helm](https://img.shields.io/badge/Helm-Package_Manager-0F1689?style=flat&logo=helm) | Automated Cloud Infra Provisioning | [🔍 View Project](https://github.com/SuchanMadhikarmi/PAAS-and-SAAS-in-AWS) |
+| **AWS DevOps vProfile Deployment Project** | ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat&logo=github-actions) ![Helm](https://img.shields.io/badge/Helm-K8s_Package_Manager-0F1689?style=flat&logo=helm) | Containerization & CI/CD | [🔍 View Project](https://github.com/SuchanMadhikarmi/aws_devops_app_deploy) |
 
----
 
 ## Cloud Projects
 
